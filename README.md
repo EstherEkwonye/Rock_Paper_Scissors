@@ -1,16 +1,17 @@
 # Rock_Paper_Scissors
 Rock paper scissors task
-Here are the necessary links
-How to Play Rock, Paper, Scissors
+Here are the necessary links:
 
-Rock paper scissors - Wikipedia 
+[How to Play Rock, Paper, Scissors](https://www.youtube.com/watch?v=ND4fd6yScBM)
 
-Introduction to Python Modules 
+[Rock paper scissors - Wikipedia](https://en.wikipedia.org/wiki/Rock_paper_scissors)
 
-Python Random Module
+[Introduction to Python Modules](https://www.youtube.com/watch?v=uoVUOTPL9Rw&list=PLxuUHF3OiqfWAITD4gPUHZ1GcYRqmyF7P&index=26)
 
-Python random choice() function to select a random item from a List and Set 
+[Python Random Module](https://www.w3schools.com/python/module_random.asp)
 
-For Loops 
+[Python random choice() function to select a random item from a List and Set](https://pynative.com/python-random-choice/)
 
-While Loops 
+[For Loops](https://www.youtube.com/watch?v=P9sIg93Boso&list=PLxuUHF3OiqfWAITD4gPUHZ1GcYRqmyF7P&index=18)
+
+[While Loops](https://www.youtube.com/watch?v=J8dkgM8Mck0&list=PLxuUHF3OiqfWAITD4gPUHZ1GcYRqmyF7P&index=19)
