@@ -1,5 +1,6 @@
 # Rock_Paper_Scissors
-Rock paper scissors task
+Rock paper scissors task.
+
 Here are the necessary links:
 
 [How to Play Rock, Paper, Scissors](https://www.youtube.com/watch?v=ND4fd6yScBM)
